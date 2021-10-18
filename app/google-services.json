@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "702922376336",
+    "project_id": "necommerce-99657",
+    "storage_bucket": "necommerce-99657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702922376336:android:fc09c32f043a9154f48415",
+        "android_client_info": {
+          "package_name": "com.example.nclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702922376336-t8msp0ipr4cim82avlpkjv8nkhtoo1oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhRCv2_sIdxcPych764qfIwNiuPpTXbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702922376336-t8msp0ipr4cim82avlpkjv8nkhtoo1oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702922376336:android:c5c07ead818c59d9f48415",
+        "android_client_info": {
+          "package_name": "com.example.nshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702922376336-t8msp0ipr4cim82avlpkjv8nkhtoo1oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhRCv2_sIdxcPych764qfIwNiuPpTXbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702922376336-t8msp0ipr4cim82avlpkjv8nkhtoo1oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
